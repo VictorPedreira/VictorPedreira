@@ -12,7 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPedreira&layout=compact&langs_count=9&theme=radical&custom_title=Tecnologias"/>
 </div>
 
-
 ## 🤖 Linguagens e Tecnologias </h3>
 <div style="display: inline_block"><br>
 
@@ -29,7 +28,6 @@
 </div>
 
 ## 💻Contatos 
-
 <div> 
   <a href="https://www.instagram.com/_victorhpedreira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/fpedreira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
