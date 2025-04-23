@@ -1,16 +1,17 @@
-
----
+<h1> 🧑🏾‍💻Victor Pedreira </h1>
+  
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/VictorPedreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorPedreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPedreira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorPedreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPedreira&layout=compact&langs_count=9&theme=radical&custom_title=Tecnologias"/>
 </div>
+
 
 ---
 <h3>🤖 Linguagens e Tecnologias </h3>
